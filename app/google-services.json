@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54702616364",
+    "firebase_url": "https://burgerrobot-6fc5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "burgerrobot-6fc5c",
+    "storage_bucket": "burgerrobot-6fc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54702616364:android:1a77cca01d0f2578888689",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54702616364-u2qhsbjdr9nns4j10efesjnmamgjn9mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYif84H7I68l_wUC_CSi8WvsPMf5gjPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54702616364-u2qhsbjdr9nns4j10efesjnmamgjn9mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
